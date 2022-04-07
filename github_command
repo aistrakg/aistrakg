@@ -1,0 +1,30 @@
+mkdir
+cd
+git init
+
+git add xxx.xxx
+
+git commit -m "new file"
+
+git status
+
+git remote add orgin https://github.com/username/repositaryName
+
+git push orgin master
+
+git branch
+*master
+
+git branch subdir01
+
+git checkout subdir01
+
+git checkout -b subdir01
+
+git branch
+
+git add xxx.xxx
+
+git commit -m "add file xxx"
+
+git push orgin subdir01
